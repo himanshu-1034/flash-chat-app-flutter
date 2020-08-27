@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "435910196538",
+    "firebase_url": "https://flash-chat-5f18e.firebaseio.com",
+    "project_id": "flash-chat-5f18e",
+    "storage_bucket": "flash-chat-5f18e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435910196538:android:9a6a00b071e41e98472403",
+        "android_client_info": {
+          "package_name": "com.himanshu.flash_chatting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435910196538-npl2vtmguv405u6c4rfckrdbqmqm7d31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvhflQL_ey5CMoM61_n7s1vbQVp8TPKWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435910196538-npl2vtmguv405u6c4rfckrdbqmqm7d31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
